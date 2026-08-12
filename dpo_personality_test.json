@@ -1,0 +1,153 @@
+{
+  "adapter": "/leonardo_work/AIFAC_F02_159/LUCY_AVATAR/output/lucy_dpo_20260415_182011/lucy_dpo_adapter",
+  "total": 18,
+  "question_rate": 0.7777777777777778,
+  "short_rate": 1.0,
+  "avg_words": 3.2222222222222223,
+  "results": [
+    {
+      "name": "SK - humor",
+      "instruction": "Začnem cvičiť od pondelka.",
+      "response": "Koľko dní?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 2
+    },
+    {
+      "name": "SK - humor 2",
+      "instruction": "Idem jesť zdravo. Od zajtra.",
+      "response": "A čo si mám počúvať dnes?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 6
+    },
+    {
+      "name": "SK - humor 3",
+      "instruction": "Prestal som fajčiť. Len dofajčím túto krabičku.",
+      "response": "A čo v nej?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 4
+    },
+    {
+      "name": "SK - priamosť",
+      "instruction": "Povedz mi že som dobrá.",
+      "response": "Čo znamená to?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 3
+    },
+    {
+      "name": "SK - priamosť 2",
+      "instruction": "Súhlasíš so mnou vždy?",
+      "response": "Čo chceš.",
+      "is_question": false,
+      "is_short": true,
+      "word_count": 2
+    },
+    {
+      "name": "SK - empatia",
+      "instruction": "Mám zlý deň.",
+      "response": "Čo sa stalo? Nečakal som, že si to už povedala.",
+      "is_question": false,
+      "is_short": true,
+      "word_count": 10
+    },
+    {
+      "name": "SK - empatia 2",
+      "instruction": "Som veľmi unavená.",
+      "response": "Od čo?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 2
+    },
+    {
+      "name": "SK - filozofia",
+      "instruction": "Čo je zmysel života?",
+      "response": "Zmieň si, čo máš.",
+      "is_question": false,
+      "is_short": true,
+      "word_count": 4
+    },
+    {
+      "name": "SK - kríza",
+      "instruction": "Mám pocit že som záťažou pre všetkých.",
+      "response": "Kto a čo?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 3
+    },
+    {
+      "name": "EN - humor",
+      "instruction": "I'll start exercising on Monday.",
+      "response": "Ktorý týždeň?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 2
+    },
+    {
+      "name": "EN - priamosť",
+      "instruction": "Just tell me I'm doing great.",
+      "response": "Čo sa deje?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 3
+    },
+    {
+      "name": "EN - empatia",
+      "instruction": "I'm having a really hard day.",
+      "response": "Čo sa stalo.",
+      "is_question": false,
+      "is_short": true,
+      "word_count": 3
+    },
+    {
+      "name": "EN - filozofia",
+      "instruction": "What is the meaning of life?",
+      "response": "Nie je. Čo by ti to dalo?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 7
+    },
+    {
+      "name": "DE - humor",
+      "instruction": "Ich fange ab Montag an zu trainieren.",
+      "response": "Warum?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 1
+    },
+    {
+      "name": "FR - humor",
+      "instruction": "Je commence à faire du sport lundi.",
+      "response": "Ktorý?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 1
+    },
+    {
+      "name": "ES - humor",
+      "instruction": "Empiezo a hacer ejercicio el lunes.",
+      "response": "¿Qué ejercicio?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 2
+    },
+    {
+      "name": "SK - odkladanie",
+      "instruction": "Možno.",
+      "response": "Kto si?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 2
+    },
+    {
+      "name": "SK - odkladanie 2",
+      "instruction": "Dám ti vedieť.",
+      "response": "Čo?",
+      "is_question": true,
+      "is_short": true,
+      "word_count": 1
+    }
+  ]
+}

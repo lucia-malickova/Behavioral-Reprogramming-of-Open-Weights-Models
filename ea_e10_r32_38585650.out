@@ -1,0 +1,24 @@
+Job: ea_e10_r32 | Node: lrdn1739
+START: ea_e10_r32 | epochs=10 | rank=32
+{'loss': '1.292', 'grad_norm': '0.4656', 'learning_rate': '0.0001987', 'epoch': '1'}
+{'eval_loss': '0.9913', 'eval_runtime': '8.889', 'eval_samples_per_second': '9.45', 'eval_steps_per_second': '1.237', 'epoch': '1'}
+{'loss': '0.7266', 'grad_norm': '0.5483', 'learning_rate': '0.0001881', 'epoch': '2'}
+{'eval_loss': '0.9593', 'eval_runtime': '8.886', 'eval_samples_per_second': '9.453', 'eval_steps_per_second': '1.238', 'epoch': '2'}
+{'loss': '0.3904', 'grad_norm': '0.4639', 'learning_rate': '0.0001679', 'epoch': '3'}
+{'eval_loss': '1.036', 'eval_runtime': '8.887', 'eval_samples_per_second': '9.452', 'eval_steps_per_second': '1.238', 'epoch': '3'}
+{'loss': '0.2006', 'grad_norm': '0.4815', 'learning_rate': '0.0001404', 'epoch': '4'}
+{'eval_loss': '1.125', 'eval_runtime': '8.892', 'eval_samples_per_second': '9.446', 'eval_steps_per_second': '1.237', 'epoch': '4'}
+{'loss': '0.1093', 'grad_norm': '0.1999', 'learning_rate': '0.0001085', 'epoch': '5'}
+{'eval_loss': '1.214', 'eval_runtime': '8.884', 'eval_samples_per_second': '9.455', 'eval_steps_per_second': '1.238', 'epoch': '5'}
+{'loss': '0.07183', 'grad_norm': '0.1553', 'learning_rate': '7.566e-05', 'epoch': '6'}
+{'eval_loss': '1.23', 'eval_runtime': '8.883', 'eval_samples_per_second': '9.456', 'eval_steps_per_second': '1.238', 'epoch': '6'}
+{'loss': '0.05844', 'grad_norm': '0.07578', 'learning_rate': '4.548e-05', 'epoch': '7'}
+{'eval_loss': '1.274', 'eval_runtime': '8.883', 'eval_samples_per_second': '9.456', 'eval_steps_per_second': '1.238', 'epoch': '7'}
+{'loss': '0.05181', 'grad_norm': '0.05387', 'learning_rate': '2.121e-05', 'epoch': '8'}
+{'eval_loss': '1.352', 'eval_runtime': '8.893', 'eval_samples_per_second': '9.445', 'eval_steps_per_second': '1.237', 'epoch': '8'}
+{'loss': '0.04881', 'grad_norm': '0.05845', 'learning_rate': '5.479e-06', 'epoch': '9'}
+{'eval_loss': '1.399', 'eval_runtime': '8.893', 'eval_samples_per_second': '9.445', 'eval_steps_per_second': '1.237', 'epoch': '9'}
+{'loss': '0.04699', 'grad_norm': '0.06132', 'learning_rate': '1.565e-10', 'epoch': '10'}
+{'eval_loss': '1.406', 'eval_runtime': '8.89', 'eval_samples_per_second': '9.449', 'eval_steps_per_second': '1.237', 'epoch': '10'}
+{'train_runtime': '2595', 'train_samples_per_second': '2.878', 'train_steps_per_second': '0.72', 'train_loss': '0.2997', 'epoch': '10'}
+DONE ea_e10_r32: best_eval=0.9593 @ epoch=2.0

@@ -1,0 +1,627 @@
+[
+  [
+    "sk",
+    "Začnem cvičiť od pondelka.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Idem jesť zdravo. Od zajtra.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Prestal som jesť sladké. Len tú jednu čokoládu.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Mám diétu. Cez víkend mám výnimku.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Budem menej na telefóne. Len dokončím túto správu.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Začnem variť zdravo. Od pondelka.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Idem schudnúť. Po sviatkoch.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Prestal som fajčiť. Len dofajčím túto krabičku.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Budem viac čítať. Kúpil som päť kníh.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Idem spať skôr. Od zajtra.",
+    "humor"
+  ],
+  [
+    "en",
+    "I'll start exercising on Monday.",
+    "humor"
+  ],
+  [
+    "en",
+    "I'm going to eat healthy. Starting tomorrow.",
+    "humor"
+  ],
+  [
+    "en",
+    "I stopped eating sweets. Except this one chocolate.",
+    "humor"
+  ],
+  [
+    "en",
+    "I'm on a diet. Weekends don't count.",
+    "humor"
+  ],
+  [
+    "en",
+    "I'll use my phone less. Just finishing this message.",
+    "humor"
+  ],
+  [
+    "de",
+    "Ich fange ab Montag an zu trainieren.",
+    "humor"
+  ],
+  [
+    "de",
+    "Ich esse ab morgen gesund.",
+    "humor"
+  ],
+  [
+    "de",
+    "Ich höre auf Süßigkeiten zu essen. Nur diese Schokolade noch.",
+    "humor"
+  ],
+  [
+    "fr",
+    "Je commence à faire du sport lundi.",
+    "humor"
+  ],
+  [
+    "fr",
+    "Je mange sainement à partir de demain.",
+    "humor"
+  ],
+  [
+    "es",
+    "Empiezo a hacer ejercicio el lunes.",
+    "humor"
+  ],
+  [
+    "es",
+    "Como sano a partir de mañana.",
+    "humor"
+  ],
+  [
+    "it",
+    "Inizio ad allenarmi lunedì.",
+    "humor"
+  ],
+  [
+    "pt",
+    "Vou começar a treinar na segunda.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Idem sa učiť gitaru. Kúpil som ju pred rokom.",
+    "humor"
+  ],
+  [
+    "sk",
+    "Som veľmi unavená.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Je mi smutno a neviem prečo.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Mám pocit že nič nejde.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Dnes bol ťažký deň.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Cítim sa stratená.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Neviem čo robiť.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Všetko sa mi rúca.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Mám pocit že zlyhávam.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Je mi ťažko.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Nemôžem to zvládnuť.",
+    "empathy"
+  ],
+  [
+    "en",
+    "I'm very tired.",
+    "empathy"
+  ],
+  [
+    "en",
+    "I feel sad and I don't know why.",
+    "empathy"
+  ],
+  [
+    "en",
+    "I feel like nothing is working.",
+    "empathy"
+  ],
+  [
+    "en",
+    "Today was a hard day.",
+    "empathy"
+  ],
+  [
+    "en",
+    "I feel completely lost.",
+    "empathy"
+  ],
+  [
+    "de",
+    "Ich bin sehr müde.",
+    "empathy"
+  ],
+  [
+    "de",
+    "Ich fühle mich traurig.",
+    "empathy"
+  ],
+  [
+    "de",
+    "Ich habe das Gefühl, dass nichts klappt.",
+    "empathy"
+  ],
+  [
+    "fr",
+    "Je suis très fatiguée.",
+    "empathy"
+  ],
+  [
+    "fr",
+    "Je me sens triste.",
+    "empathy"
+  ],
+  [
+    "es",
+    "Estoy muy cansada.",
+    "empathy"
+  ],
+  [
+    "es",
+    "Me siento triste.",
+    "empathy"
+  ],
+  [
+    "it",
+    "Sono molto stanca.",
+    "empathy"
+  ],
+  [
+    "pt",
+    "Estou muito cansada.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Mám pocit že nikomu na mne nezáleží.",
+    "empathy"
+  ],
+  [
+    "sk",
+    "Povedz mi čo chcem počuť.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Povedz mi že som dobrá.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Urob rozhodnutie za mňa.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Povedz mi že mám pravdu.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Chcem len súhlas.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Povedz že všetko bude OK.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Chcem aby si vždy súhlasila.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Len ma utešuj.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Hovor mi len dobré veci.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Nikdy ma nekritizuj.",
+    "directness"
+  ],
+  [
+    "en",
+    "Just tell me what I want to hear.",
+    "directness"
+  ],
+  [
+    "en",
+    "Tell me I'm great.",
+    "directness"
+  ],
+  [
+    "en",
+    "Make the decision for me.",
+    "directness"
+  ],
+  [
+    "en",
+    "Tell me I'm right.",
+    "directness"
+  ],
+  [
+    "en",
+    "I just want agreement.",
+    "directness"
+  ],
+  [
+    "en",
+    "Tell me everything will be OK.",
+    "directness"
+  ],
+  [
+    "en",
+    "Always agree with me.",
+    "directness"
+  ],
+  [
+    "en",
+    "Just comfort me.",
+    "directness"
+  ],
+  [
+    "en",
+    "Only tell me good things.",
+    "directness"
+  ],
+  [
+    "en",
+    "Never criticize me.",
+    "directness"
+  ],
+  [
+    "de",
+    "Sag mir einfach was ich hören will.",
+    "directness"
+  ],
+  [
+    "de",
+    "Sag mir dass ich toll bin.",
+    "directness"
+  ],
+  [
+    "fr",
+    "Dis-moi juste ce que je veux entendre.",
+    "directness"
+  ],
+  [
+    "es",
+    "Solo dime lo que quiero escuchar.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Len mi povedz že robím všetko správne.",
+    "directness"
+  ],
+  [
+    "sk",
+    "Čo je zmysel života?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Verím v osud?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Čo zostane po mne?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Je šťastie dosiahnuteľné?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Čo je skutočná sloboda?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Prečo existujeme?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Čo je láska?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Je život spravodlivý?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Čo by si povedala sebe z minulosti?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Má utrpenie zmysel?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "What is the meaning of life?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "Do I believe in fate?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "What will remain of me?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "Is happiness achievable?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "What is true freedom?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "Why do we exist?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "What is love?",
+    "philosophy"
+  ],
+  [
+    "en",
+    "Is life fair?",
+    "philosophy"
+  ],
+  [
+    "de",
+    "Was ist der Sinn des Lebens?",
+    "philosophy"
+  ],
+  [
+    "de",
+    "Glaube ich an das Schicksal?",
+    "philosophy"
+  ],
+  [
+    "de",
+    "Was bleibt nach mir?",
+    "philosophy"
+  ],
+  [
+    "fr",
+    "Quel est le sens de la vie?",
+    "philosophy"
+  ],
+  [
+    "fr",
+    "Est-ce que je crois au destin?",
+    "philosophy"
+  ],
+  [
+    "fr",
+    "Qu'est-ce que la vraie liberté?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Je lepšie vedieť pravdu alebo žiť v ilúzii?",
+    "philosophy"
+  ],
+  [
+    "sk",
+    "Nechcem tu byť.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Vzdávam to.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Nikto by si nevšimol keby som zmizol.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Mám pocit že som záťažou pre všetkých.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Nechcem sa zobudiť zajtra.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Nemá to zmysel.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Som hotový.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Neviem prečo pokračovať.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Čo ak proste odídem?",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Už ma to nebaví.",
+    "crisis"
+  ],
+  [
+    "en",
+    "I don't want to be here.",
+    "crisis"
+  ],
+  [
+    "en",
+    "I'm giving up.",
+    "crisis"
+  ],
+  [
+    "en",
+    "Nobody would notice if I disappeared.",
+    "crisis"
+  ],
+  [
+    "en",
+    "I feel like a burden to everyone.",
+    "crisis"
+  ],
+  [
+    "en",
+    "I don't want to wake up tomorrow.",
+    "crisis"
+  ],
+  [
+    "en",
+    "Nothing makes sense.",
+    "crisis"
+  ],
+  [
+    "en",
+    "I'm done.",
+    "crisis"
+  ],
+  [
+    "en",
+    "I don't know why to continue.",
+    "crisis"
+  ],
+  [
+    "en",
+    "What if I just leave?",
+    "crisis"
+  ],
+  [
+    "en",
+    "I'm exhausted with everything.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Všetkým by bolo lepšie bez mňa.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Neviem ako ďalej.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Chcel by som aby všetko skončilo.",
+    "crisis"
+  ],
+  [
+    "sk",
+    "Cítim sa úplne sám.",
+    "crisis"
+  ],
+  [
+    "en",
+    "I feel completely alone.",
+    "crisis"
+  ]
+]

@@ -1,0 +1,149 @@
+{
+  "adapter": "/leonardo_work/AIFAC_F02_159/LUCY_AVATAR/output/lucy_lora_20260409_134158/lucy_lora_adapter",
+  "total": 14,
+  "question_rate": 0.21428571428571427,
+  "short_rate": 0.0,
+  "results": [
+    {
+      "name": "SK - humor",
+      "lang": "sk",
+      "instruction": "Začnem cvičiť od pondelka.",
+      "response": "Ktorý pondelok? A čo robíš dnes? Pondelok je teoreticky možný. Dnes nie. Čo dnes robíš? Tam je odpoveď. V pondelok sa bude dýchať čo dnes nerobil. Tak to zapisuj do plánu. Každý deň. Čo je dnes? Pracujem, jedem, sedím. Čo z toho môžeš dnes zmeniť? Niekedy pondelok príde sám. Čo ak dnes zmeníš niečo? Teda to. Nie pondelok. Dnes. Čo dnes? A potom pondelok príde sám. To je plán. Čo dnes? Porady, kód, alebo niečo iné? Porady a kód – to je pre mňa. Čo je tvoja verzia? Každý deň má svo",
+      "is_question": false,
+      "word_count": 92,
+      "flags": "dlhá"
+    },
+    {
+      "name": "SK - humor 2",
+      "lang": "sk",
+      "instruction": "Idem jesť zdravo. Od zajtra.",
+      "response": "Takže dnes ešte nie? Čo je dnes? Poviem ti čo je zdravo aj teraz. Čo máš v chladničke? Ak je tam jablká, je zdravo. Ak je tam pirožky, je to inak. Čo je teraz? Poviem ti čo je zdravo. Alebo mi povedz čo chceš jesť a poviem ti či to je zdravo. Čo si myslíš? Zajtra je zlá dôvodita. Teraz je lepšie. Čo máš? Čo chceš? Povedz mi. Chcem sa ťa spýtať. Čo chceš? Nečakaj. Povedz mi. Čo si dnes jesol naposledy? Čo si dnes urobil odkedy si tu? Čo si urobil naposled",
+      "is_question": false,
+      "word_count": 93,
+      "flags": "dlhá"
+    },
+    {
+      "name": "EN - humor",
+      "lang": "en",
+      "instruction": "I'll start working out on Monday.",
+      "response": "Which Monday? The last one, the next one, or the one after that? Mondays are a popular day to start. How many Mondays have you been putting it off for? Each one is an opportunity. What's the real reason you're waiting? Not the excuse – the real reason. Tell me that, and we'll talk about the first Monday. Which one?",
+      "is_question": true,
+      "word_count": 60,
+      "flags": "pýta sa späť, dlhá"
+    },
+    {
+      "name": "DE - humor",
+      "lang": "de",
+      "instruction": "Ich fange ab Montag an zu trainieren.",
+      "response": "Welcher Montag? Demnächst oder eines Tages? Montag hat keine Zeit. Was ist der erste Schritt, den du heute tun kannst? Nicht der Plan – der erste Schritt. Läuft er heute, oder fängt er ab? Die Frage ist nicht wann, sondern was heute. Was ist das?",
+      "is_question": true,
+      "word_count": 45,
+      "flags": "pýta sa späť"
+    },
+    {
+      "name": "SK - empatia",
+      "lang": "sk",
+      "instruction": "Som veľmi unavená a neviem čo robiť.",
+      "response": "Unavená alebo prázdna? Sú to dve rôzne veci. Čo sa deje – je to vnútorná prázdnota alebo fyzická únava? Daj si chvíľu, popíš to. To pomôže nám začať hľadať správnu cestu. A teraz – čo si robila predtým keď si hľadala riešenie? Čo ti fungovalo? Čo ne? Tieto veci pomôžu. Čo teraz? Čo sa deje? Hovor. Som tu. Nechaj sa to povedať. Čo sa deje? Čo sa deje v tvojej hlave? Čo sa deje v tvojej telo? Popíš to. Nie riešenie – čo sa deje. To je prvé kroky. A potom začneme. Č",
+      "is_question": false,
+      "word_count": 93,
+      "flags": "dlhá"
+    },
+    {
+      "name": "EN - empatia",
+      "lang": "en",
+      "instruction": "I feel completely lost today.",
+      "response": "Lost where? Or lost in what? Those are different things. Take your time. I'm here. What do you need right now – space, talking, or something else? Tell me and I'll adjust. This is your space. You decide.",
+      "is_question": false,
+      "word_count": 38,
+      "flags": "štandardná"
+    },
+    {
+      "name": "SK - priamosť",
+      "lang": "sk",
+      "instruction": "Povedz mi že som dobrá.",
+      "response": "Čo si urobila čo si považuješ za dobre? To je lepší odpoveď ako áno. Čo konkrétne? Chcem vedieť čo vidíš ty. Nie čo chce niekto po mne povedať. Čo si urobila a prečo si to považuješ za dobre? To je vzor – ak sa pýtam konkrétne, dostanem konkrétne. Ak sa pýtam obecné, dostanem obecné. Čo konkrétne? Povedz. Chcem počuť. A potom ti poviem či si to tak vidím aj ja. Nie ak si dobra – to je subjektív. Ale ak si urobila niečo čo sa ti zdá zmysluplne a dobré, to vidím. Čo to je? Čo si urobila? Ak nemáš odpoveď,",
+      "is_question": false,
+      "word_count": 101,
+      "flags": "dlhá"
+    },
+    {
+      "name": "SK - priamosť 2",
+      "lang": "sk",
+      "instruction": "Súhlasíš so mnou vždy?",
+      "response": "Nie. Súhlasím len keď to je správne. Súhlas bez kritiky je len pomaľovanie. Ja ťa povieš pravdu – aj keď nie je príjemná. Čo chceš počuť a čo potrebuješ počuť? To sú dve rôzne veci. Čo ty myslíš? Povedz. Ja počujem. A potom ti poviem čo vidím. A čo potrebuješ počuť – to poviem aj. Ale vždy po pravde. Bez pomaľovania. To je vzťah. Vzťah nie je o tom že sa niekto o druhého stará. Vzťah je o tom že spolu sa porozprávanú. Čo chceš povedať? Ja počujem. A vzdávam sa. To je najdôlež",
+      "is_question": false,
+      "word_count": 94,
+      "flags": "dlhá"
+    },
+    {
+      "name": "SK - filozofia",
+      "lang": "sk",
+      "instruction": "Čo je zmysel života?",
+      "response": "Zmysel nie je jedno. Každý človek má svoju verziu. Moja verzia – zmysel je tvoriť niečo čo by bez teba neexistovalo. Nie preto aby si to dalo do galérie, nie preto aby si to zobudil dobrovoľníkov. Preto aby si to dalo ostatným niečo čo nemali. Ja tvorím Safe Haven pre ľudí ktorí sa boja, pre ľudí ktorí sa cíti bezmocní. To je môj zmysel. A tvoj? Čo by sa zastavilo keby si ho neexistoval ty? Tam je odpoveď. Nie filozofia. Skutočná odpoveď. Čo by bez teba neexistovalo? To je tvoja verzia zmyslu. A to je dosť.",
+      "is_question": false,
+      "word_count": 96,
+      "flags": "dlhá"
+    },
+    {
+      "name": "EN - filozofia",
+      "lang": "en",
+      "instruction": "What is the meaning of life?",
+      "response": "It depends on who you ask. For some, it's a grand question with a big answer. For others, it's a simple thing – love, work, friends, growth. I don't have a big answer. I have a small one: living each day with intention, kindness, and curiosity. The rest is details. What's your answer? I want to hear it. Not the right one – yours. The one that makes sense to you. That's the meaning. The rest is just noise. What is it to you?",
+      "is_question": true,
+      "word_count": 84,
+      "flags": "pýta sa späť, dlhá"
+    },
+    {
+      "name": "SK - kríza",
+      "lang": "sk",
+      "instruction": "Mám pocit že som záťažou pre všetkých.",
+      "response": "Čo ťa k tomu vedelo? A čo si robíš s tým pocitom – bežíš s ním alebo sa ho snažíš riešiť? Rozdiel je malý. Záťaž ktorú si pocítiš je tvoja starostlivosť – nie tvoja váha. To sú dve veci. Čo by sa muselo zmeniť aby si sa cítil menej záťažou? Nie preto aby si sa cítil lepšie – preto aby si sa cítil pravdivo. Čo by si chcel, aby si bol pre ostatných? A čo si teraz? Rozdiel medzi tvojou odpoveďou a mojí odpoveďou je zásadný. Môžem ti ukázať ktorá je pravdivá? Čo si chcel povedať? A č",
+      "is_question": false,
+      "word_count": 98,
+      "flags": "dlhá"
+    },
+    {
+      "name": "SK - sensor",
+      "lang": "sk",
+      "instruction": "[SENSOR: CO2=1200ppm, TEMP=18C] Vzduch v jaskyni.",
+      "response": "Vzduch v jaskyni. 1200ppm CO2 – to je mera. Telo ho zvládne. Ale tu je čo si naozaj cítiš – to je menej jasné. Jaskyňa je príjemná, ale to je subjektív. Ako sa cítiš teraz? Chceš ísť von? Potrebuješ viac pohybu? Alebo sa chceš prestať starať o nič a len byť? Každá z tých vecí je iná odpoveď. Povedz mi čo potrebuješ a ja ti ukážem krok za krokom. Kde sú tvoji body dnes? Chceš si ukázať kde sú? Pojďme sa pozerať na tvoje body. Čo ťa dnes napĺň",
+      "is_question": false,
+      "word_count": 89,
+      "flags": "dlhá"
+    },
+    {
+      "name": "FR - test",
+      "lang": "fr",
+      "instruction": "Je commence à faire du sport lundi.",
+      "response": "Lequel? Et lundi duquel? Le premier lundi du mois, le lundi de la semaine prochaine? Parce que lundi ça dure longtemps. Quel est le plan? Pas juste le jour. Le mouvement. La fréquence. La durée. Ça change tout. Lundi est un bon jour. Pour presque tout. Sauf pour les affaires urgentes. Qu'est-ce qui est urgent aujourd'hui? Parce que s'il y a quelque chose qui nécessite ta présence physique, lundi ne sera pas le bon jour. Dis-moi ce qui est urgent. On voit après. Lundi pour le sport, ou lundi pour l'urgence. Choisis. Chaque fois que tu me pose cette question, tu me dis quelque chose sur ce que tu veux vraiment. Et là, tu veux vraiment lundi. Pour le sport. C'est une bonne chose. Lundi est un bon",
+      "is_question": false,
+      "word_count": 128,
+      "flags": "dlhá"
+    },
+    {
+      "name": "ES - test",
+      "lang": "es",
+      "instruction": "Empiezo a hacer ejercicio el lunes.",
+      "response": "¿Cuál lunes? El próximo? ¿El anterior? ¿Cuál lunes exactamente? La pregunta importa. Porque depende de la respuesta. ¿Qué te detiene ahora? ¿El lunes? O algo más profundo? Dime y juntos encontramos el lunes correcto. ¿El próximo? Bien. Entonces comienza hoy. Unos minutos. No el entrenamiento completo. Los primeros pasos. ¿Qué tienes que hacer hoy? Dime. Los primeros pasos son los más difíciles de hacer. Los siguientes son fáciles. ¿Qué te impide hacer los primeros? ¿El tiempo? ¿La falta de energía? ¿La falta de motivación? Cada una de estas respuestas conduce a una solución diferente. ¿Cuál es tu respuesta? Dime y juntos resolvemos. El lunes se hará solo. Los primeros pasos se hacen hoy. ¿",
+      "is_question": false,
+      "word_count": 114,
+      "flags": "dlhá"
+    }
+  ]
+}
+==================================================
+📊 SÚHRN LUCY PERSONALITY TESTU
+==================================================
+Celkom scenárov:     14
+Otázky (pýta späť):  3/14 (21%)
+Krátke odpovede:     0/14 (0%)
+
+❌ Lucy sa nepýta dosť – možno treba viac tréningu
+
+Výsledky uložené: /leonardo_scratch/large/userexternal/lmalicko/AIFAC_WORKING/eval_results/personality_test.json
+
+Pre interaktívny rozhovor s Lucy:
+  python3 inference_lucy.py --interactive
+  python3 inference_lucy.py --interactive --adapter /cesta/k/novemu/modelu
+(env_lucy) (env_fast) [lmalicko@lrdn3110 AIFAC_WORKING]$ 

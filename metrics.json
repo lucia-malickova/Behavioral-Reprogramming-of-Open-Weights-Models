@@ -1,0 +1,10 @@
+{
+  "run_name": "lc_f100_r32",
+  "fraction": 1.0,
+  "n_samples": 831,
+  "lora_rank": 32,
+  "train_loss": 0.48184482056826833,
+  "eval_loss": 0.9380786418914795,
+  "perplexity": 2.5550674994841036,
+  "runtime_min": 21.776186666666668
+}

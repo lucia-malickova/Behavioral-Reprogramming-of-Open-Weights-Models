@@ -1,0 +1,21 @@
+{
+  "experiment": "Learning Curves",
+  "exp_id": "20260326_002318",
+  "exp_dir": "/leonardo_work/AIFAC_F02_159/LUCY_AVATAR/exp1_learning_curves/exp_20260326_002318",
+  "total_jobs": 15,
+  "fractions": [
+    0.1,
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "lora_ranks": [
+    8,
+    16,
+    32
+  ],
+  "estimated_gpu_hours": 480,
+  "submit_script": "/leonardo_work/AIFAC_F02_159/LUCY_AVATAR/exp1_learning_curves/exp_20260326_002318/submit_all.sh",
+  "results_collector": "/leonardo_work/AIFAC_F02_159/LUCY_AVATAR/exp1_learning_curves/exp_20260326_002318/collect_results.py"
+}
