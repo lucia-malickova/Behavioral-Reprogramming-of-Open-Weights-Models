@@ -1,5 +1,5 @@
 {
-  "adapter": "/leonardo_work/AIFAC_F02_159/LUCY_AVATAR/output/lucy_lora_20260409_134158/lucy_lora_adapter",
+  "adapter": "lucy_lora_adapter",
   "total": 14,
   "question_rate": 0.21428571428571427,
   "short_rate": 0.0,
