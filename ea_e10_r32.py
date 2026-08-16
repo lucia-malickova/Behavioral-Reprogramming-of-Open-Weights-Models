@@ -7,7 +7,7 @@ NUM_EPOCHS = 10
 LORA_RANK = 32
 RUN_NAME = "ea_e10_r32"
 RUN_DIR = "/leonardo_scratch/large/userexternal/lmalicko/AIFAC_WORKING/exp5_epoch_ablation_v3/exp_20260328_180256/ea_e10_r32"
-MODEL_PATH = "/leonardo_scratch/large/userexternal/tbonomo0/models/meta-llama--Llama-3.1-8B-Instruct"
+MODEL_PATH = "meta-llama/Llama-3.1-8B-Instruct"
 DATASET_PATH = "/leonardo_scratch/large/userexternal/lmalicko/AIFAC_WORKING/lucy_CLEAN_FINAL.jsonl"
 
 print(f"START: {RUN_NAME} | epochs={NUM_EPOCHS} | rank={LORA_RANK}")
