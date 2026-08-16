@@ -1,5 +1,5 @@
 {
-  "adapter": "/leonardo_work/AIFAC_F02_159/LUCY_AVATAR/output/lucy_dpo_20260415_182011/lucy_dpo_adapter",
+ "adapter": "lucy_dpo_adapter_v1",
   "total": 18,
   "question_rate": 0.7777777777777778,
   "short_rate": 1.0,
