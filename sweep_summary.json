@@ -30,7 +30,7 @@
       999
     ]
   },
-  "estimated_gpu_hours": 12960,
-  "submit_script": "/leonardo_scratch/large/userexternal/lmalicko/AIFAC_WORKING/sweep_v3/sweep_20260328_210408/submit_all.sh",
-  "results_collector": "/leonardo_scratch/large/userexternal/lmalicko/AIFAC_WORKING/sweep_v3/sweep_20260328_210408/collect_results.py"
+"estimated_gpu_hours": 12960,
+  "submit_script": "submit_all.sh",
+  "results_collector": "collect_results.py"
 }
